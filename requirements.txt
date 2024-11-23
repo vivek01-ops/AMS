@@ -1,13 +1,2 @@
-streamlit
-opencv-python
-face-recognition
-Pillow
-numpy
-pandas
-gspread
-google-auth 
-cmake
-build-essential
-libboost-python-dev
-libboost-system-dev
-python3-dev
+cmake==3.25.0
+dlib==19.24.6
