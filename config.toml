@@ -15,11 +15,3 @@ enableCORS = false
 
 # Disables Cross-Site Request Forgery protection
 enableXsrfProtection = false
-
-# [theme]
-# Optional: Customize the app theme
-# primaryColor = "#4CAF50"
-# backgroundColor = "#F9F9F9"
-# secondaryBackgroundColor = "#FFFFFF"
-# textColor = "#000000"
-# font = "sans serif"
