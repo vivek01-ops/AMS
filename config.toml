@@ -1,0 +1,25 @@
+# ~/.streamlit/config.toml
+
+[server]
+# Enables headless mode to run Streamlit without opening a browser
+headless = true
+
+# Binds the app to a specific IP address (e.g., your local machine's IP on the WiFi network)
+address = "192.168.124.205"  # Replace this with the specific IP of your machine on the WiFi network
+
+# Specifies the port the app will run on
+port = 8501
+
+# Disables CORS protection (required for local access but use caution for security)
+enableCORS = false
+
+# Disables Cross-Site Request Forgery protection
+enableXsrfProtection = false
+
+# [theme]
+# Optional: Customize the app theme
+# primaryColor = "#4CAF50"
+# backgroundColor = "#F9F9F9"
+# secondaryBackgroundColor = "#FFFFFF"
+# textColor = "#000000"
+# font = "sans serif"
